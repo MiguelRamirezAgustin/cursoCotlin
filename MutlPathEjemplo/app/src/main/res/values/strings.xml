@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MutlPathEjemplo</string>
+
+    <string name="base_ws">http://35.155.161.8:8080/WSExample/</string>
+    <string name="base_img">http://35.155.161.8:8080/WSExample/</string>
+
+</resources>

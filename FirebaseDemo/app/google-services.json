@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729663188156",
+    "firebase_url": "https://mobtkpruebas.firebaseio.com",
+    "project_id": "mobtkpruebas",
+    "storage_bucket": "mobtkpruebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729663188156:android:0a1d6e5d3e626877",
+        "android_client_info": {
+          "package_name": "com.mobtk.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729663188156-qi55nm6lef8uuiods07j61l8jfr69n0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3HMlhsLVu_qsKyOsD4agzGChVxdicQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729663188156-qi55nm6lef8uuiods07j61l8jfr69n0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

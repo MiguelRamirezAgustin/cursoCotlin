@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PersistenciaEjemplo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_correo">Correo</string>
+    <string name="btn_save">Guarda</string>
+    <string name="btn_search">Busca</string>
+    <string name="btn_clear">Limpia</string>
+
+    <!-- preference variables-->
+    <string name="pref_name"></string>
+    <string name="pref_email"></string>
+</resources>

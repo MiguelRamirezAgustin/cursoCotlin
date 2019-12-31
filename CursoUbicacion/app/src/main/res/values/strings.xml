@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CursoUbicacion</string>
+    <string name="btn_loc">Otorga mi ubicación</string>
+    <string name="txt_geo">Mi geolocalización</string>
+</resources>
